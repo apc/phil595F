@@ -117,16 +117,14 @@ div#nav ul li.current { list-style: square; }*/
 	text-decoration:none;
 	color:#a0a0a0;
 	font-weight:400;
-	cursor:pointer;
 }
 
-#nav ul li.current a, a:hover{ color: #555; background-color: #fff; cursor:text}
+#nav ul li.current a, #nav ul li.current a:hover{ color: #555; background-color: #fff; cursor:text}
 
 #footer a{
 	text-decoration:none;
 	color:#555 !important;
 	font-weight:400;
-	cursor:pointer;
 }
 
 #nav a:hover, #footer a:hover{
