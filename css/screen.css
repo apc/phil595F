@@ -45,6 +45,8 @@ dt { font-weight: bold; margin-bottom: .1em; }
 table { border-top: 1px solid #ccc;  border-left: 1px solid #ccc; }
 th, td { border-bottom: 1px solid #ddd; border-right: 1px solid #ccc; }
 
+a {cursor:pointer;}
+
 blockquote { padding: 0 1.6em; color: #666; }
 
 /* COLORS */
